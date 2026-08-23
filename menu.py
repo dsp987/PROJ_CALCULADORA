@@ -5,3 +5,5 @@ def menu(opcao=int):
         return 'subtrair'   
     elif opcao == 3:
         return 'multiplicar' 
+    elif opcao == 4:
+        return 'dividir'    
