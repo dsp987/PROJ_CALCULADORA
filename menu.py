@@ -7,3 +7,5 @@ def menu(opcao=int):
         return 'multiplicar' 
     elif opcao == 4:
         return 'dividir'    
+    elif opcao == 0:
+        return 'sair'    
